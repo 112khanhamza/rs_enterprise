@@ -1,0 +1,41 @@
+.white-text-container .btn-black:hover {
+  background-color: rgba(0, 0, 0, 0.9);
+  border: 1px solid grey;
+}
+
+h2:after {
+  background-color: rgb(255, 204, 0);
+}
+
+.text-shadow {
+  text-shadow: 0.5px 0.5px rgb(255, 204, 0);
+  font-weight: lighter;
+}
+
+.navbar-inverse .navbar-btn:hover {
+  background-color: rgba(0, 0, 0, 0.9);
+  border: 1px solid grey;
+}
+
+.footer-container {
+  background-color: rgb(255, 204, 0);
+}
+
+.btn-primary {
+  background-color: rgba(0, 0, 0, 0.9);
+  border: 1px solid grey;
+}
+
+.btn-primary:hover {
+  background-color: rgba(0, 0, 0, 0.9);
+  border: 1px solid grey;
+}
+
+.btn-default {
+  border-color: grey;
+}
+
+.btn-default:hover {
+  background-color: rgba(0, 0, 0, 0.9);
+  border: 1px solid grey;
+}
